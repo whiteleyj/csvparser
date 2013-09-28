@@ -1,0 +1,7 @@
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\bin\Debug\CsvParser.Tests.dll
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\bin\Debug\CsvParser.Tests.pdb
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\bin\Debug\CsvParser.dll
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\bin\Debug\CsvParser.pdb
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\obj\Debug\CsvParser.Tests.csprojResolveAssemblyReference.cache
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\obj\Debug\CsvParser.Tests.dll
+G:\projects\CsvParser\CsvParser\CsvParser.Tests\obj\Debug\CsvParser.Tests.pdb
